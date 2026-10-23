@@ -88,4 +88,8 @@ if st.button("🔍 Predict Car Fault", type="primary", use_container_width=True)
     st.caption(reason)
     st.write("**Input values used for prediction**")
     st.dataframe(features, use_container_width=True, hide_index=True)
-    st.warning("This hybrid demonstration uses simple example thresholds as an override. Do not use its result to decide whether a real car is safe to drive.")
+   st.success(
+    "Car Fault Detection Analysis Completed Successfully! "
+    "The system has analyzed the provided vehicle parameters "
+    "and generated a prediction."
+)
