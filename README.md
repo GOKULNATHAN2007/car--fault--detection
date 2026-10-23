@@ -109,5 +109,3 @@ This is a college project. The dataset is generated synthetically for demonstrat
 LICENSE
 
 For educational use.
-
-Remember to replace the GitHub clone URL with your own repository address before submitting.
