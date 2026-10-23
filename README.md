@@ -2,6 +2,10 @@
 
 A machine learning project that predicts car component faults from sensor readings using a Random Forest classifier. It includes an interactive Streamlit web app with a virtual vehicle diagnostic display.
 
+LIVE DEMO
+
+https://car--fault--detection-aw553xe6sduchfww3hbrxw.streamlit.app/
+
 FEATURES
 
 - Random Forest classification of car faults: No Fault, Warning, Fault
@@ -34,7 +38,7 @@ README.txt                          This file
 INSTALLATION
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo.git
+   git clone 
 2. Go into the folder:
    cd your-repo
 3. Install the dependencies:
@@ -49,7 +53,6 @@ This installs dependencies, generates the dataset, trains the model and launches
 Option 2: Step by step
    python setup.py
    streamlit run car_fault_ui.py
-
 
 ML PIPELINE
 
@@ -98,7 +101,6 @@ FUTURE IMPROVEMENTS
 - Use a real vehicle sensor dataset instead of synthetic data
 - Add a feature importance chart to the UI
 - Add live sensor input via OBD-II
-- Deploy the app on Streamlit Community Cloud
 
 ACADEMIC NOTE
 
@@ -107,3 +109,5 @@ This is a college project. The dataset is generated synthetically for demonstrat
 LICENSE
 
 For educational use.
+
+Remember to replace the GitHub clone URL with your own repository address before submitting.
