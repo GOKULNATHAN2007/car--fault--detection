@@ -4,7 +4,7 @@ A machine learning project that predicts car component faults from sensor readin
 
 LIVE DEMO
 
-https://car--fault--detection-aw553xe6sduchfww3hbrxw.streamlit.app/
+https://car--fault--detection-8npajkfqsq5jdzfkuet8jg.streamlit.app/
 
 FEATURES
 
